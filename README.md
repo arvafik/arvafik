@@ -10,7 +10,7 @@
 
 </br>
 
-<p align="center"> 💜 I'm currently working as a web developer 💜 </p>
+<p align="center"> 💜 I'm currently working as a front-end developer 💜 </p>
 
 </br>
 
