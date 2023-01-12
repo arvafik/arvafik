@@ -4,17 +4,22 @@
 
 
 - Recently finished my degree in Computer Systems Engineering
-- Currently living in México
+- Currently living in Mexico
 - Reading makes me happy
-- Arch Linux ricing 🍚 (Working on my dotfiles)
+
 
 </br>
 
-<p align="center"> 💜 I'm currently working as a front-end developer 💜 </p>
+<p align="center"> 💜 I'm currently working as a Software QA Tester 💜 </p>
 
 </br>
 
-**Working with:**
+
+**Learning:**
+
+<a href="https://www.selenium.dev/" title="Selenium"><img src="icons/selenium.png" /></a>
+
+**Previously worked with:**
 
 <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
@@ -24,13 +29,6 @@
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-
-**Learning:**
-
-<a href="https://www.selenium.dev/" title="Selenium"><img src="icons/selenium.png" /></a>
-
-**Previously worked with:**
-
 <a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
 <a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
 <a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
