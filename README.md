@@ -1,4 +1,4 @@
-<h2 align="center"> 🌟 Hi! I'm Jessica Grajeda, a software developer 🌟 </h2>
+<h2 align="center"> 🌟 Hi! I'm Jessica Grajeda, a software engineer 🌟 </h2>
 
 ### 📝 About me
 
