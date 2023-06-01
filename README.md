@@ -3,9 +3,10 @@
 ### 📝 About me
 
 
-- I have a degree in Computer Systems Engineering
+- Computer Systems Engineer
 - Currently living in Mexico
 - Reading makes me happy
+- Planes are actually pretty cool 
 
 
 </br>
