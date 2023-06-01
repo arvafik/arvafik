@@ -3,7 +3,7 @@
 ### 📝 About me
 
 
-- Recently finished my degree in Computer Systems Engineering
+- I have a degree in Computer Systems Engineering
 - Currently living in Mexico
 - Reading makes me happy
 
@@ -17,10 +17,11 @@
 
 **Learning:**
 
-<a href="https://www.selenium.dev/" title="Selenium"><img src="icons/selenium.png" /></a>
+
 
 **Previously worked with:**
 
+<a href="https://www.selenium.dev/" title="Selenium"><img src="icons/selenium.png" /></a>
 <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
 <a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a>
@@ -38,4 +39,4 @@
 **Socials:**
 
 [![GitHub](icons/github.png)](https://github.com/arvafik)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/arvafik/)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/jessica-grajeda/)
