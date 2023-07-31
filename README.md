@@ -18,7 +18,7 @@
 
 **Previously worked with:**
 
-<a href="https://www.selenium.dev/" title="Cypress"><img src="icons/cypress.jpeg" /></a>
+<a href="https://www.cypress.io/" title="Cypress"><img src="icons/cypress.jpeg" /></a>
 <a href="https://www.selenium.dev/" title="Selenium"><img src="icons/selenium.png" /></a>
 <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
